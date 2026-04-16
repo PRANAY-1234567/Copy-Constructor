@@ -14,8 +14,6 @@ class Sample:
     def display(self):
         print(f"xx = {self.x}\ty = {self.y}\tz = {self.z}")
 
-
-
 s1 = Sample(53, 66, 68)
 s2 = Sample(s1)   # copy constructor
 s3 = Sample(s2)   # copy constructor again
