@@ -92,7 +92,6 @@ x = 63	y = 76	z = 78
 ## 🎯 Use Case
 
 This program helps beginners understand:
-
 * How object copying works in Python
 * Difference between normal constructor and copy constructor
 * How values can be modified during copying
