@@ -107,7 +107,7 @@ This program helps beginners understand:
 * Use `copy` module for advanced copying
 * Add input-based object creation
 
----
+--
 
 ## 📄 License
 
