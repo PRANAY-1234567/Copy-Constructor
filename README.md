@@ -58,7 +58,6 @@ class Sample:
         print(f"x = {self.x}\ty = {self.y}\tz = {self.z}")
 
 
-# Main program
 s1 = Sample(53, 66, 68)
 s2 = Sample(s1)   # copy constructor
 s3 = Sample(s2)   # copy constructor again
