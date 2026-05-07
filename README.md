@@ -41,6 +41,7 @@ This Python program demonstrates how to simulate a **copy constructor** using a 
 ## 💻 Code
 
 ```python id="m4x9pt"
+
 class Sample:
     def __init__(self, x=None, y=None, z=None):
         # Parameterized constructor
